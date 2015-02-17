@@ -9,7 +9,7 @@ Preconfigures [pdfkit](https://rubygems.org/gems/pdfkit), [wicked_pdf](https://r
 ## Usage
 
 ```ruby
-gem 'wkhtmltopdf-heroku-edge', '~> 0.12.2.1'
+gem 'wkhtmltopdf-heroku-edge', '~> 0.12.2.1b'
 ```
 
 ## ONLY supports CEDAR-14 stack (Ubuntu 14.04 LTS)
